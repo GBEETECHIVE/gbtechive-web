@@ -67,7 +67,7 @@ const FaqSection = () => {
           </div>
 
           {/* BUTTON */}
-        <Button text="more details"/>
+        <Button text="More details"/>
         </div>
 
         {/* RIGHT IMAGE */}

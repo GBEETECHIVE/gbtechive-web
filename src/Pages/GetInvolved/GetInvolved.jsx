@@ -77,7 +77,7 @@ const GetInvolved = () => {
           {/* Left Card */}
           <div className="bg-white rounded-xl p-10 min-h-[600px] flex flex-col justify-between">
             <div>
-              <h2 className="text-4xl font-bold text-[#363636] mt-36">
+              <h2 className="text-4xl font-bold text-[#363636] mt-363">
                 Build Your Future.
                 <br />
                 Join <span className="text-black">GBTechive</span>
